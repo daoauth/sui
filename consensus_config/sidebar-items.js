@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Authority","AuthorityIndex","Committee","Parameters"],"type":["Epoch","NetworkKeyPair","NetworkPrivateKey","NetworkPublicKey","ProtocolKeyPair","ProtocolPrivateKey","ProtocolPublicKey","ProtocolPublicKeyBytes","Stake"]};
